@@ -8,7 +8,7 @@ VMware or Virtual Box
 Kali Linux/Parrot OS or any other penetration testing suite
 Familiarity with Linux, web applications and networking 
 
-DISCLAIMER 
+DISCLAIMER:
 As mentioned this is for educational purposes only and should not be attempted on real web application without consent. Relevant Offences and Legislation
 Computer Misuse Act 1990 (‘CMA’) is the main UK legislation relating to offences or attacks against computer systems such as hacking or denial of service.
 https://www.cps.gov.uk/legal-guidance/cybercrime-prosecution-guidance
