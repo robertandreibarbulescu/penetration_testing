@@ -4,8 +4,10 @@ We conducted a comprehensive security assessment of BadStore.net in order to det
 The report provided is for educational purpose only and shows an example of a penetration testing black box security review. The vulnerable web application is included.
 
 Requirements:
-VMware or Virtual Box/n
+VMware or Virtual Box
+
 Kali Linux/Parrot OS or any other penetration testing suite
+
 Familiarity with Linux, web applications and networking 
 
 DISCLAIMER:
